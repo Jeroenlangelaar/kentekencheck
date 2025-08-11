@@ -1,1 +1,0 @@
--- See original schema.sql from previous ZIP. If needed, replace CREATE POLICY lines to remove IF NOT EXISTS.
