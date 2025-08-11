@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "MVP"
+git branch -M main
+git remote add origin https://github.com/<jouw-account>/kenteken-zoeker.git
+git push -u origin main
